@@ -4,7 +4,7 @@ Videos Link: https://youtu.be/ECuqb5Tv9qI
 -->
 # Hi there, I'm Dilip - aka D 👋
 
-### I'm a Developer & Blogger!!
+### 🧑‍💻 I'm a Developer & Blogger!!
 
 - 🔭 I'm Currently Working as a Support Engineer for a Multi-National Banking Firm.
 - 🌱 I’m currently learning everything 🤣
@@ -16,7 +16,7 @@ Videos Link: https://youtu.be/ECuqb5Tv9qI
     * Learn to play the ukelele.
 - ⚡ Fun fact: I'm a highly OCD'ed person (figuratively) that plans and organized every aspect.
 
-### Connect with me:
+### 🔗 Connect with me:
 
 [<img align="left" alt="dilipsd97.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][githubpage]
 [<img align="left" alt="dilipSD97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -24,7 +24,7 @@ Videos Link: https://youtu.be/ECuqb5Tv9qI
 
 <br />
 
-### Languages I know:
+### 🤟 Languages I know:
 
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -37,7 +37,7 @@ Videos Link: https://youtu.be/ECuqb5Tv9qI
 
 <br />
 
-### Tools I work with:
+### 🛠️ Tools I work with:
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -62,7 +62,11 @@ Videos Link: https://youtu.be/ECuqb5Tv9qI
 
 ---
 
-[![dilipSD97's github stats](https://github-readme-stats.vercel.app/api?username=dilipSD97)](https://github.com/dilipSD97/github-readme-stats)
+[![dilipSD97's github stats](https://github-readme-stats.vercel.app/api?username=dilipSD97&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilipSD97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [githubpage]: https://dilipsd97.github.io/
 [linkedin]: https://www.linkedin.com/in/dilip-akshy-karthik-s-d-229170111/
