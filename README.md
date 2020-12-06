@@ -1,3 +1,7 @@
+<!--
+Credits for building this md file with all the features goes to codeSTACKr's Youtibe Video
+Videos Link: https://youtu.be/ECuqb5Tv9qI
+-->
 # Hi there, I'm Dilip - aka D 👋
 
 ### I'm a Developer & Blogger!!
@@ -41,6 +45,7 @@
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Splunk" width="26px" src="https://www.logolynx.com/images/logolynx/f2/f222760c66cf7aab3a64eeb0157646b6.png" />
+<img align="left" alt="Notion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
 
 <br />
 <br />
@@ -55,6 +60,8 @@
 ➡️ [more blog posts...](https://dev.to/dilipsd97)
 
 ---
+
+[![dilipSD97's github stats](https://github-readme-stats.vercel.app/api?username=dilipSD97)](https://github.com/dilipSD97/github-readme-stats)
 
 [githubpage]: https://dilipsd97.github.io/
 [linkedin]: https://www.linkedin.com/in/dilip-akshy-karthik-s-d-229170111/
