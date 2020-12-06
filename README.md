@@ -1,6 +1,6 @@
 # Hi there, I'm Dilip - aka D 👋
 
-## I'm a Developer & Blogger!!
+### I'm a Developer & Blogger!!
 
 - 🔭 I'm Currently Working as a Support Engineer for a Multi-National Banking Firm.
 - 🌱 I’m currently learning everything 🤣
@@ -52,7 +52,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://dev.to/dilipsd97)
 
 ---
 
