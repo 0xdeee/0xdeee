@@ -1,4 +1,4 @@
-### Hi there, I'm Dilip - aka [D] 👋
+# Hi there, I'm Dilip - aka D 👋
 
 ## I'm a Developer & Blogger!!
 
@@ -44,6 +44,17 @@
 
 <br />
 <br />
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://codestackr.com)
+
+---
 
 [githubpage]: https://dilipsd97.github.io/
 [linkedin]: https://www.linkedin.com/in/dilip-akshy-karthik-s-d-229170111/
