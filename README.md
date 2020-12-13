@@ -59,7 +59,7 @@ Videos Link: https://youtu.be/ECuqb5Tv9qI
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Habits of an Highlt Effective Programmer](https://dev.to/dilipsd97/7-habits-of-an-highlt-effective-programmer-1696)
+- [7 Habits of an Highly Effective Programmer](https://dev.to/dilipsd97/7-habits-of-an-highlt-effective-programmer-1696)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/dilipsd97)
