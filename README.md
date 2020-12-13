@@ -26,7 +26,7 @@ Videos Link: https://youtu.be/ECuqb5Tv9qI
 
 ### 🤟 Languages I know:
 
-<a href="#">
+<a href="javascript:void()">
   <p float="left">
     <img  alt="HTML5" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
     <img  alt="CSS3" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -42,7 +42,7 @@ Videos Link: https://youtu.be/ECuqb5Tv9qI
 
 ### 🛠️ Tools I work with:
 
-<a href="#">
+<a href="javascript:void()">
   <p float="left">
     <img  alt="Visual Studio Code" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     <img  alt="Visual Studio Code" width="26px" hspace="10" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" />
