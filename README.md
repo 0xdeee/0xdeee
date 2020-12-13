@@ -26,32 +26,33 @@ Videos Link: https://youtu.be/ECuqb5Tv9qI
 
 ### 🤟 Languages I know:
 
-<p float="left">
-  <img id="icons" alt="HTML5" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img id="icons" alt="CSS3" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img id="icons" alt="JavaScript" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img id="icons" alt="Angular" width="26px" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
-  <img id="icons" alt="Java" width="26px" hspace="10" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" />
-  <img id="icons" alt="Spring" width="26px" hspace="10" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" />
-  <img id="icons" alt="Terminal" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-</p>
-
-
+<a href="#">
+  <p float="left">
+    <img  alt="HTML5" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+    <img  alt="CSS3" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    <img  alt="JavaScript" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+    <img  alt="Angular" width="26px" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
+    <img  alt="Java" width="26px" hspace="10" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" />
+    <img  alt="Spring" width="26px" hspace="10" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" />
+    <img  alt="Terminal" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  </p>
+</a>
 
 <br />
 
 ### 🛠️ Tools I work with:
 
-<p float="left">
-  <img id="icons" alt="Visual Studio Code" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img id="icons" alt="Visual Studio Code" width="26px" hspace="10" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" />
-  <img id="icons" alt="Git" width="26px" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
-  <img id="icons" alt="GitHub" width="26px" hspace="10" src="https://maxcdn.icons8.com/Share/icon/p1em/Logos/github1600.png" />
-  <img id="icons" alt="Splunk" width="26px" hspace="10" src="https://www.logolynx.com/images/logolynx/f2/f222760c66cf7aab3a64eeb0157646b6.png" />
-  <img id="icons" alt="Notion" width="26px" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
-</p>
+<a href="#">
+  <p float="left">
+    <img  alt="Visual Studio Code" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    <img  alt="Visual Studio Code" width="26px" hspace="10" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" />
+    <img  alt="Git" width="26px" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
+    <img  alt="GitHub" width="26px" hspace="10" src="https://maxcdn.icons8.com/Share/icon/p1em/Logos/github1600.png" />
+    <img  alt="Splunk" width="26px" hspace="10" src="https://www.logolynx.com/images/logolynx/f2/f222760c66cf7aab3a64eeb0157646b6.png" />
+    <img  alt="Notion" width="26px" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
+  </p>
+</a>
 
-<br />
 <br />
 
 ---
@@ -75,9 +76,3 @@ Videos Link: https://youtu.be/ECuqb5Tv9qI
 [githubpage]: https://dilipsd97.github.io/
 [linkedin]: https://www.linkedin.com/in/dilip-akshy-karthik-s-d-229170111/
 [stackoverflow]: https://stackoverflow.com/users/13717981/dilip-sd?tab=profile
-
-<script>
-$('#icons').on('click', function(event) {
-  event.preventDefault();
-});
-</script>
