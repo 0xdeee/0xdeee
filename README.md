@@ -1,78 +1,49 @@
-<!--
-Credits for building this md file with all the features goes to codeSTACKr's Youtibe Video
-Videos Link: https://youtu.be/ECuqb5Tv9qI
--->
-# Hi there, I'm Dilip - aka D 👋
+# Hi there 👋, I'm Dilip - aka Dee
 
-### 🧑‍💻 I'm a Developer & Blogger!!
+![Twitter Follow](https://img.shields.io/twitter/follow/0xdeee?color=blue&label=Twitter&style=for-the-badge)
 
-- 🔭 I'm Currently Working as a Programmer for a Multi-National Banking Firm in Mobile Application's Customer Experience Improvement team(Fancy way to say I fix Prod Bugs).
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for Oppertunities to Collaborate, Contribute and if possible, be mentored.
-- 🥅 2021 Goals: 
-    * Contribute more to Open Source projects.
-    * Learn more of DSA.
-    * Create more personal projects.
-    * Learn to play the ukulele.
-- ⚡ Fun fact: I'm a highly OCD'ed person (figuratively) that plans and organized every aspect.
+- I'm a web developer & blogger!!
+- Currently working on fixing PROD bugs and CX improvements on the web-view layer of a bank's mobile app.
+- Highly interested in decentralization technologies and protocols.
+- Currently learning more advanced JavaScript & full-stack web development.
+- I write blog posts about web development and blockchain technologies.
 
-### 🔗 Connect with me:
+## 🔗 Connect with me
 
-[<img align="left" alt="dilipsd97.github.io" width="22px" src="https://maxcdn.icons8.com/Share/icon/ultraviolet/Network/domain1600.png" />][githubpage]
-[<img align="left" alt="dilipSD97 | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="dilipSD97 | StackOverflow" width="22px" src="http://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded&a" />][stackoverflow]
+[<img alt="0xdeee.github.io" src="https://maxcdn.icons8.com/Share/icon/ultraviolet/Network/domain1600.png" width="40" height="40"/>][githubpage]
+[<img alt="0xdeee | Twitter" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/twitter/twitter-original.svg" width="40" height="40"/>][twitter]
+[<img alt="0xdeee | LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" width="40" height="40" />][linkedin]
+[<img alt="0xdeee | StackOverflow" src="http://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded&a" width="40" height="40" />][stackoverflow]
 
-<br />
+[githubpage]: https://0xdeee.github.io/
+[twitter]: https://twitter.com/0xdeee
+[linkedin]: https://www.linkedin.com/in/0xdeee/
+[stackoverflow]: https://stackoverflow.com/users/13717981/0xdeee?tab=profile
 
-### 🤟 Languages I know:
+## 🧰 Toolbox
 
-<a href="javascript:void()">
-  <p float="left">
-    <img  alt="HTML5" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-    <img  alt="CSS3" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    <img  alt="JavaScript" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <img  alt="Angular" width="26px" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
-    <img  alt="Java" width="26px" hspace="10" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" />
-    <img  alt="Spring" width="26px" hspace="10" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" />
-    <img  alt="Terminal" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-  </p>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/angularjs/angularjs-plain.svg" alt="Angular" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-plain-wordmark.svg" alt="Java" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="VScode" width="50" height="50"/>
 
-<br />
-
-### 🛠️ Tools I work with:
-
-<a href="javascript:void()">
-  <p float="left">
-    <img  alt="Visual Studio Code" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    <img  alt="Visual Studio Code" width="26px" hspace="10" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" />
-    <img  alt="Git" width="26px" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
-    <img  alt="GitHub" width="26px" hspace="10" src="https://maxcdn.icons8.com/Share/icon/p1em/Logos/github1600.png" />
-    <img  alt="Splunk" width="26px" hspace="10" src="https://www.logolynx.com/images/logolynx/f2/f222760c66cf7aab3a64eeb0157646b6.png" />
-    <img  alt="Notion" width="26px" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
-  </p>
-</a>
-
-<br />
-
----
-
-### 📕 Latest Blog Posts
+## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Habits of an Highly Effective Programmer](https://dev.to/dilipsd97/7-habits-of-an-highlt-effective-programmer-1696)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dev.to/dilipsd97)
+▶ [...more blog articles](https://catalins.tech)
 
----
+## 🛠 Stats
 
-[![dilipSD97's github stats](https://github-readme-stats.vercel.app/api?username=dilipSD97&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilipSD97&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-[githubpage]: https://dilipsd97.github.io/
-[linkedin]: https://www.linkedin.com/in/dilip-akshy-karthik-s-d-229170111/
-[stackoverflow]: https://stackoverflow.com/users/13717981/dilip-sd?tab=profile
+[![0xdeee's github stats](https://github-readme-stats.vercel.app/api?username=0xdeee&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdeee&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
