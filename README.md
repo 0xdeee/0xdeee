@@ -39,6 +39,7 @@
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Habits of an Highly Effective Programmer](https://dev.to/0xdeee/7-habits-of-an-highlt-effective-programmer-1696)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://catalins.tech)
