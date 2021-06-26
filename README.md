@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Dilip - aka Dee
 
-![Twitter Follow](https://img.shields.io/twitter/follow/0xdeee?color=blue&label=Twitter&style=for-the-badge)
-
 - I'm a web developer & blogger!!
 - Currently working on fixing PROD bugs and CX improvements on the web-view layer of a bank's mobile app.
 - Highly interested in decentralization technologies and protocols.
@@ -22,19 +20,7 @@
 
 ## 🧰 Toolbox
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/angularjs/angularjs-plain.svg" alt="Angular" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-plain-wordmark.svg" alt="Java" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="VScode" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/angularjs/angularjs-plain.svg" alt="Angular" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/express/express-original.svg" alt="Express" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-plain-wordmark.svg" alt="Java" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="VScode" width="50" height="50"/>
 
 ## 📘 Latest Blog Articles
 
