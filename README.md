@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Dee✨
 
 - I'm a full stack developer & blogger!!
-- Currently working on fixing PROD bugs and CX improvements on the web-view layer of a bank's mobile app.
 - Highly interested in decentralization technologies and protocols.
 - Currently learning more advanced JavaScript & full-stack web development.
 - I write blog posts about web development and blockchain technologies.
