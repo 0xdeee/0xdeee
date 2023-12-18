@@ -7,7 +7,6 @@
 
 ## 🔗 Connect with me
 
-[<img alt="0xdeee.github.io" src="https://maxcdn.icons8.com/Share/icon/ultraviolet/Network/domain1600.png" width="40" height="40"/>][githubpage]
 [<img alt="0xdeee | Twitter" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/twitter/twitter-original.svg" width="40" height="40"/>][twitter]
 [<img alt="0xdeee | LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" width="40" height="40" />][linkedin]
 [<img alt="0xdeee | StackOverflow" src="http://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded&a" width="40" height="40" />][stackoverflow]
